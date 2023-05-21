@@ -23,7 +23,8 @@
 
 OTHER IDEAS:
 
-- ✔️ Redux Saga.
+- ✔️ Redux Toolkit to have a cleaner and more effective redux store with no need for actions and reducers created separately.
+- ✔️ Redux Saga to manage asynchronous functions.
 - ✔️ Single page application for better user experience.
 
 ---
