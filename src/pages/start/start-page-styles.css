@@ -1,0 +1,25 @@
+.start-page {
+  position: absolute;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: white;
+  animation: start-page-animation 2s forwards 1.5s;
+
+  z-index: 1;
+}
+
+.start-page img {
+  position: absolute;
+  left: 50%;
+}
+
+@keyframes start-page-animation {
+  from {
+    top: 0;
+  }
+  to {
+    top: -100%;
+    display: none;
+  }
+}

@@ -1,0 +1,46 @@
+.posts-page {
+  padding: 1.5rem;
+}
+
+.page-header {
+  background: var(--second-color);
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.page-header-logout-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: var(--main-color);
+  cursor: pointer;
+}
+
+.scroll-to-top-container {
+  display: flex;
+
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  background: var(--second-color);
+  padding: 10px;
+  border-radius: 8px;
+
+  cursor: pointer;
+  box-shadow: 0px 0px 10px rgba(6, 46, 155, 0.397);
+
+  animation: appear 0.5s ease-in-out;
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

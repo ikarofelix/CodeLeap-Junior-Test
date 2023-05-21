@@ -1,0 +1,22 @@
+.delete-modal {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 20px;
+}
+
+.delete-title {
+  text-align: left;
+}
+
+.delete-modal-buttons-container {
+  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.delete {
+  background: #ff5151;
+}

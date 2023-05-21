@@ -1,0 +1,37 @@
+.post-form-container {
+  width: 100%;
+  margin: auto;
+  border-radius: 16px;
+
+  border: 1px solid var(--third-color);
+}
+
+.post-form-title {
+  color: var(--text-color);
+}
+
+.post-form {
+  margin: auto;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.post-form-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  gap: 5px;
+}
+
+.post-form-input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+}
+
+.post-form-button {
+  align-self: flex-end;
+}
