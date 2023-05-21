@@ -1,6 +1,6 @@
 # CodeLeap Junior FrontEnd Engineer
 
-![image](https://github.com/ikarofelix/code-leap-junior-test/assets/117465215/26a3d15a-2c0e-4b3a-baa0-704a7218807d)
+![image](https://github.com/ikarofelix/CodeLeap-Junior-Test/assets/117465215/7ca5ebd1-441c-46f1-86f7-0f1b2a771cbc)
 
 ## Required:
 
